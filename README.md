@@ -13,7 +13,7 @@ yarn
 npm i
 ```
 
-Запуск в режиме разработки.
+Запуск в режиме разработки:
 
 ```bash
 yarn dev
@@ -21,6 +21,16 @@ yarn dev
 Или: 
 ```bash
 npm run dev
+```
+
+Запуск тестов: 
+
+```bash
+yarn test 
+```
+Или:
+```bash
+npm run test 
 ```
 
 ## Описание
