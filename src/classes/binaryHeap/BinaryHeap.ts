@@ -73,7 +73,7 @@ export class BinaryHeap {
         } while (swap !== null)
     }
 
-    clearData(){
+    public clearData(){
         this.data = []
     }
 
